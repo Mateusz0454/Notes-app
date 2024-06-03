@@ -1,12 +1,20 @@
-
 # Project Title
 
 Design of a simple application to create tasks or save notes
 
-## Authors
+## Stack
+- Python
+- tkinter
+- ttkbootstrap
+- JSON
 
-- [@Mateusz0454 ](https://www.github.com/Mateusz0454 )
+## Setup
 
+A library is needed for proper operation. You can install it using the command:
+
+```bash
+$ python -m pip install ttkbootstrap
+```
 
 ## Features
 
@@ -16,3 +24,5 @@ Design of a simple application to create tasks or save notes
 - Save task
 - import from json file data
 
+## Authors
+- [@Mateusz0454 ](https://www.github.com/Mateusz0454 )
