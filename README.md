@@ -13,7 +13,7 @@ Design of a simple application to create tasks or save notes
 A library is needed for proper operation. You can install it using the command:
 
 ```bash
-$ python -m pip install ttkbootstrap
+$ python -m pip install ttkbootstrap ttkbootstrap
 ```
 
 ## Features
